@@ -30,7 +30,7 @@ Deep-Retina/
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/deepretina.git
+   git clone https://github.com/Divyansh1101/DeepRetina-OCT-Image-Analysis-Retinal-Disease-Classification-Deep-Learning-ML-Model-Benchmarking.git
    cd deepretina
    ```
 
