@@ -7,7 +7,7 @@ ______
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)  
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)  
-![Last Commit](https://img.shields.io/github/last-commit/Divyansh1101/DeepRetina-OCT-Image-Analysis-Retinal-Disease-Classification-Deep-Learning-ML-Model-Benchmarking,style=flat-square)  
+![Last Commit](https://img.shields.io/github/last-commit/Divyansh1101/DeepRetina-OCT-Image-Analysis-Retinal-Disease-Classification-Deep-Learning-ML-Model-Benchmarking?style=flat-square)  
 
 ______
 
