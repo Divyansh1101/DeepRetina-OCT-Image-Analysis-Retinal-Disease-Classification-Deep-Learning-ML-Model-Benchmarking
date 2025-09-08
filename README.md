@@ -3,6 +3,14 @@
 DeepRetina is an intelligent OCT (Optical Coherence Tomography) image analysis platform for **retinal disease classification, benchmarking, and visualization**.  
 It provides a clean API and web-based interface to explore OCT datasets, evaluate multiple ML/DL models, and visualize results in a clinically relevant manner.
 
+______
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)  
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)  
+![Last Commit](https://img.shields.io/github/last-commit/Divyansh1101/DeepRetina-OCT-Image-Analysis-Retinal-Disease-Classification-Deep-Learning-ML-Model-Benchmarking,style=flat-square)  
+
+______
+
 ## 🚀 Features
 - **Disease Classification**: Deep learning (CNN, Vision Transformer) and ML (SVM, Random Forest) models.  
 - **Benchmarking**: Compare model accuracy, AUC, and inference speed.  
